@@ -1,0 +1,6 @@
+typing-extensions
+langchain
+python-docx
+streamlit
+pandas
+databutton
